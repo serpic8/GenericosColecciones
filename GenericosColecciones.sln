@@ -31,7 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaColeccionesGenericas"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaLinkedList", "PruebaLinkedList\PruebaLinkedList.csproj", "{6C5542B3-4B6D-4CFD-98DE-F15513A2BD21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaLambda", "PruebaLambda\PruebaLambda.csproj", "{1F273651-7A2F-4889-8B12-7ACA8991CC4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaLambda", "PruebaLambda\PruebaLambda.csproj", "{1F273651-7A2F-4889-8B12-7ACA8991CC4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pjControlRegistroLibros", "pjControlRegistroLibros\pjControlRegistroLibros.csproj", "{CA749221-E996-466C-A6CF-32F013ABD5A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba_LINQ", "Prueba_LINQ\Prueba_LINQ.csproj", "{8A795506-270D-4AD9-B932-BB1679E1F210}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{1F273651-7A2F-4889-8B12-7ACA8991CC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F273651-7A2F-4889-8B12-7ACA8991CC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F273651-7A2F-4889-8B12-7ACA8991CC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA749221-E996-466C-A6CF-32F013ABD5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA749221-E996-466C-A6CF-32F013ABD5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA749221-E996-466C-A6CF-32F013ABD5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA749221-E996-466C-A6CF-32F013ABD5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A795506-270D-4AD9-B932-BB1679E1F210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A795506-270D-4AD9-B932-BB1679E1F210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A795506-270D-4AD9-B932-BB1679E1F210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A795506-270D-4AD9-B932-BB1679E1F210}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
