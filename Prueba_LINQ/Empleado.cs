@@ -18,11 +18,11 @@ namespace Prueba_LINQ
 
         public override string ToString()
         {
-            retunr string.Format("Empledo {0} con {1}, con cargo {2} con salario {3}" +
-                "pertenece ")
+            return string.Format("Empledo {0} con {1}, con cargo {2} con salario {3} " +
+                "pertenece a la empresa {4} ", Nombre, Id, Cargo, Salario, EmpresaId);
         }
 
 
-        //EL profe escribe muy rapido que aburrido completa con su codigo
+        
     }
 }

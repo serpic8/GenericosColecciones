@@ -11,8 +11,9 @@ namespace Prueba_LINQ
         public int Id { get; set; }
         public string Nombre { get; set; }
 
-        public override string toString
+        public override string ToString()
         {
+            return String.Format("Empresa {0} con {1}", Nombre, Id);
 
         }
     }
